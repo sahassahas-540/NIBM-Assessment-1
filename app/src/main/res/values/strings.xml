@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NIBMAssessment1</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="mobile_hint">Mobile</string>
+    <string name="submit_text">Submit</string>
+    <string name="clear_text">Clear</string>
+</resources>
